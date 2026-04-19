@@ -4,8 +4,7 @@
 Can a composite housing affordability index be constructed using income, rent,
 and property price data across Irish regions?
 
-**Student:** Muhammad Ahmer Naveed | ID: 24155080
-**Subject:** Open Data Workflow
+**Student:** Muhammad Ahmer Naveed
 **Data Year:** 2022 — All 26 Irish Counties
 **DOI:** [10.5281/zenodo.19615497](https://doi.org/10.5281/zenodo.19615497)
 
